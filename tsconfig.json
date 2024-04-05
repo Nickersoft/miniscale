@@ -4,7 +4,9 @@
     "checkJs": true,
     "moduleResolution": "node",
     "target": "es2020",
-    "outDir": "./lib"
+    "noEmit": true,
+    "outDir": "./lib",
+    "esModuleInterop": true
   },
   "typeAcquisition": {
     "include": ["jest"]
