@@ -1,4 +1,5 @@
-import { describe, expect, it } from "@jest/globals";
+import { describe, expect, it } from "vitest";
+
 import { scale, getArray } from "../src/miniscale";
 
 describe("scale() function", () => {

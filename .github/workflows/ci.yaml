@@ -39,5 +39,7 @@ jobs:
         run: pnpm run ci
       - name: Run tsc
         run: pnpm run check
+      - name: Run tests
+        run: pnpm run test
       - name: Run build
         run: pnpm run build
