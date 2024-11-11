@@ -1,6 +1,6 @@
 {
 	"name": "@kojodesign/miniscale",
-	"version": "1.4.0",
+	"version": "1.4.1",
 	"description": "A tiny package for working with modular scale",
 	"types": "lib/miniscale.d.ts",
 	"main": "lib/miniscale.js",
